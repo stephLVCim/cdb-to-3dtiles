@@ -54,6 +54,30 @@
     ],
     "version": "3.6.5",
     "url": "https://github.com/openscenegraph/OpenSceneGraph",
-    "notes": "Contains static linking exception in wxWindows Library Licence, Version 3.1, clause 3. See https://github.com/openscenegraph/OpenSceneGraph/blob/683403244a489fe3e71f1533580c22e099774a36/LICENSE.txt#L59-L61."
+    "notes": "Contains static linking exception"
+  },
+  {
+    "name": "libmorton",
+    "license": [
+      "MIT"
+    ],
+    "version": "0.2.12",
+    "url": "https://github.com/Forceflow/libmorton"
+  },
+  {
+    "name": "RapidXML",
+    "license": [
+      "BSL-1.0"
+    ],
+    "version": "1.13",
+    "url": "http://rapidxml.sourceforge.net/"
+  },
+  {
+    "name": "tiny-utf8",
+    "license": [
+      "BSD-3-Clause"
+    ],
+    "version": "4.3",
+    "url": "https://github.com/DuffsDevice/tiny-utf8"
   }
 ]
